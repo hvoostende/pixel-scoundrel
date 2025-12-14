@@ -18,8 +18,10 @@ Based on the original Scoundrel card game, reimagined with pixel art aesthetics.
 
 ## License
 
-This is a personal hobby project. Feel free to use it for learning purposes.
+**Code**: Free to use for learning and personal projects.
+
+**Art Assets**: All pixel art and visual assets are created by us and require proper credit if used. Please credit both creators if you use any art from this project.
 
 ---
 
-*A learning project by Han van Oostende*
+*A learning project by Han and Vida van Oostende*
