@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dgwus6h52gjbx"
-path="res://.godot/imported/death.png-82d82cf8b8713a670c9545da2522ca69.ctex"
+uid="uid://brkdyfticxtob"
+path="res://.godot/imported/full_deck.png-fc40291dcfe2d00e8315329c4ea948ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Graphics/death.png"
-dest_files=["res://.godot/imported/death.png-82d82cf8b8713a670c9545da2522ca69.ctex"]
+source_file="res://Graphics/full_deck.png"
+dest_files=["res://.godot/imported/full_deck.png-fc40291dcfe2d00e8315329c4ea948ce.ctex"]
 
 [params]
 

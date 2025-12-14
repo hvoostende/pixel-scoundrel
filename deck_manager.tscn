@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://dp7j6qihmpawb"]
+
+[ext_resource type="Script" uid="uid://hiocf3vq5mmf" path="res://deck_manager.gd" id="1_ruaq4"]
+[ext_resource type="PackedScene" uid="uid://bq3n638ifr6ma" path="res://card.tscn" id="2_j0ei6"]
+
+[node name="DeckManager" type="Node2D"]
+script = ExtResource("1_ruaq4")
+card_scene = ExtResource("2_j0ei6")
+deal_duration = 0.8
+deal_delay = 0.3

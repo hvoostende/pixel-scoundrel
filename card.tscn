@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://bq3n638ifr6ma"]
+
+[ext_resource type="Script" uid="uid://cqhrc88ompdjh" path="res://card.gd" id="1_rjlel"]
+[ext_resource type="Texture2D" uid="uid://b1e2v6poikaid" path="res://Graphics/card-border-1.png" id="2_q5obu"]
+
+[node name="Card" type="Node2D"]
+script = ExtResource("1_rjlel")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2_q5obu")
+
+[node name="Label" type="Label" parent="."]
+offset_left = -19.0
+offset_top = -9.0
+offset_right = 21.0
+offset_bottom = 14.0
+horizontal_alignment = 1
+vertical_alignment = 1
